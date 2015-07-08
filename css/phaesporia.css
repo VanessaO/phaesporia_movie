@@ -74,6 +74,10 @@ TABBED CONTENT
 	  border-color: #cead00;
 	}
 
+.tab-content a:hover {
+	color: #fff;
+}
+
 /*******************
 FOOTER
 ********************/
