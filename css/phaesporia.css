@@ -82,7 +82,7 @@ TABBED CONTENT
 	color: #fff;
 }
 
-div#About p {
+#About > p {
 	color: #fff;
 }
 
