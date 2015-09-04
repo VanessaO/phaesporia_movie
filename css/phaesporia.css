@@ -82,6 +82,9 @@ TABBED CONTENT
 	color: #fff;
 }
 
+#About p {
+	color: #000;
+}
 #gallery img {
 	margin: 1em 0.5em;
 }
