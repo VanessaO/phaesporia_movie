@@ -5,7 +5,7 @@ $(document).ready(function(){
     $("#contactForm").submit(function(e) {
       e.preventDefault();
       $.ajax({
-        url: "//formspree.io/phaesporiamovie@gmail.com", 
+        url: "//formspree.io/swinefilms@gmail.com", 
         method: "POST",
         data: $(this).serialize(),
         dataType: "json",
